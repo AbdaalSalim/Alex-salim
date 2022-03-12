@@ -2,7 +2,7 @@
 - 👀 I’m interested in changin my career to work on Blockchain field
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me marketer.salim@gmail.com / or you can follow my youtube channel { Alex Learns Programming }
+- 📫 How to reach me marketer.salim@gmail.com / or you can follow my youtube channel: Alex Learns Programming (https://www.youtube.com/channel/UC8z-P0mzuDUFcMvnzX9A6DA)
 
 <!---
 Alex-salim/Alex-salim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
